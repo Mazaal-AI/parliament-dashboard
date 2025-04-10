@@ -1,0 +1,105 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.dashboard-card {
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  transition: transform 0.2s;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px);
+}
+
+.sentiment-positive {
+  color: #28a745;
+}
+
+.sentiment-neutral {
+  color: #ffc107;
+}
+
+.sentiment-negative {
+  color: #dc3545;
+}
+
+.sentiment-badge {
+  font-size: 0.8rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: 20px;
+}
+
+.badge-positive {
+  background-color: rgba(40, 167, 69, 0.2);
+  color: #28a745;
+}
+
+.badge-neutral {
+  background-color: rgba(255, 193, 7, 0.2);
+  color: #856404;
+}
+
+.badge-negative {
+  background-color: rgba(220, 53, 69, 0.2);
+  color: #dc3545;
+}
+
+.member-card {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.member-card:hover {
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.alert-item {
+  border-left: 4px solid transparent;
+  padding-left: 15px;
+  margin-bottom: 10px;
+}
+
+.alert-item.high {
+  border-left-color: #dc3545;
+}
+
+.alert-item.medium {
+  border-left-color: #ffc107;
+}
+
+.alert-item.low {
+  border-left-color: #28a745;
+}
+
+.sidebar {
+  position: sticky;
+  top: 80px;
+}
+
+.chart-container {
+  height: 300px;
+  width: 100%;
+}
+
+.language-toggle {
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    position: static;
+  }
+  
+  .chart-container {
+    height: 250px;
+  }
+}

@@ -1,0 +1,666 @@
+[
+  {
+    "id": 1,
+    "name": "Dashzegve AMARBAYASGALAN",
+    "position": "Chairman of the Parliament",
+    "committee": "State Structure",
+    "image": "https://www.parliament.mn/images/members/amarbayasgalan.jpg",
+    "sentiment": {
+      "current": 0.5030087227414327,
+      "previous": 0.40300872274143273,
+      "trend": "up"
+    },
+    "mentions": {
+      "total": 16050,
+      "news": 39,
+      "facebook": 15905,
+      "twitter": 106
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Economic Policy discussion in Parliament",
+        "snippet": "The Parliament member Dashzegve AMARBAYASGALAN discussed Economic Policy during the session. The discussion focused on various aspects of the policy a...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827272",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Economic Policy discussion in Parliament",
+        "snippet": "The Parliament member Dashzegve AMARBAYASGALAN discussed Economic Policy during the session. The discussion focused on various aspects of the policy a...",
+        "url": "https://gogo.mn.mn/news/1744253824800",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Economic Policy discussion in Parliament",
+        "snippet": "The Parliament member Dashzegve AMARBAYASGALAN discussed Economic Policy during the session. The discussion focused on various aspects of the policy a...",
+        "url": "https://legalmongolia.mn/news/1744253827344",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Economic Policy",
+        "snippet": "Discussion about Economic Policy in Parliament. Dashzegve AMARBAYASGALAN made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_127/posts/1744253985656",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Economic Policy",
+        "snippet": "Discussion about Economic Policy in Parliament. Dashzegve AMARBAYASGALAN made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_104/posts/1744253956832",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Economic Policy",
+        "snippet": "#EconomicPolicy #AMARBAYASGALAN Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_10/status/1744253995256",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Economic Policy",
+        "snippet": "#EconomicPolicy #AMARBAYASGALAN Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_4/status/1744253993112",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Khurelbaatar BULGANTUYA",
+    "position": "Deputy Chairman",
+    "committee": "Education and Culture",
+    "image": "https://www.parliament.mn/images/members/bulgantuya.jpg",
+    "sentiment": {
+      "current": 0.4992269467857592,
+      "previous": 0.5992269467857592,
+      "trend": "down"
+    },
+    "mentions": {
+      "total": 15898,
+      "news": 38,
+      "facebook": 15601,
+      "twitter": 259
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Healthcare Reform discussion in Parliament",
+        "snippet": "The Parliament member Khurelbaatar BULGANTUYA discussed Healthcare Reform during the session. The discussion focused on various aspects of the policy ...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827241",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Healthcare Reform discussion in Parliament",
+        "snippet": "The Parliament member Khurelbaatar BULGANTUYA discussed Healthcare Reform during the session. The discussion focused on various aspects of the policy ...",
+        "url": "https://gogo.mn.mn/news/1744253824841",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Healthcare Reform discussion in Parliament",
+        "snippet": "The Parliament member Khurelbaatar BULGANTUYA discussed Healthcare Reform during the session. The discussion focused on various aspects of the policy ...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827313",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Healthcare Reform",
+        "snippet": "Discussion about Healthcare Reform in Parliament. Khurelbaatar BULGANTUYA made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_113/posts/1744253968881",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Healthcare Reform",
+        "snippet": "Discussion about Healthcare Reform in Parliament. Khurelbaatar BULGANTUYA made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_111/posts/1744253966481",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Healthcare Reform",
+        "snippet": "#HealthcareReform #BULGANTUYA Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_3/status/1744253992817",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Healthcare Reform",
+        "snippet": "#HealthcareReform #BULGANTUYA Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_3/status/1744253993057",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "NOROV ALTANKHUYAG",
+    "position": "Member",
+    "committee": "Budget",
+    "image": "https://www.parliament.mn/images/members/altankhuyag.jpg",
+    "sentiment": {
+      "current": 0.49945154065015923,
+      "previous": 0.5994515406501593,
+      "trend": "down"
+    },
+    "mentions": {
+      "total": 16519,
+      "news": 40,
+      "facebook": 16191,
+      "twitter": 288
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Environmental Protection discussion in Parliament",
+        "snippet": "The Parliament member NOROV ALTANKHUYAG discussed Environmental Protection during the session. The discussion focused on various aspects of the policy...",
+        "url": "https://infrastructuremongolia.mn/news/1744253827210",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Environmental Protection discussion in Parliament",
+        "snippet": "The Parliament member NOROV ALTANKHUYAG discussed Environmental Protection during the session. The discussion focused on various aspects of the policy...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827282",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Environmental Protection discussion in Parliament",
+        "snippet": "The Parliament member NOROV ALTANKHUYAG discussed Environmental Protection during the session. The discussion focused on various aspects of the policy...",
+        "url": "https://gogo.mn.mn/news/1744253824810",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Environmental Protection",
+        "snippet": "Discussion about Environmental Protection in Parliament. NOROV ALTANKHUYAG made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_115/posts/1744253971202",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Environmental Protection",
+        "snippet": "Discussion about Environmental Protection in Parliament. NOROV ALTANKHUYAG made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_81/posts/1744253928098",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Environmental Protection",
+        "snippet": "#EnvironmentalProtection #ALTANKHUYAG Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_10/status/1744253995226",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Environmental Protection",
+        "snippet": "#EnvironmentalProtection #ALTANKHUYAG Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_3/status/1744253992890",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "SAINBUYAN AMARSAIKHAN",
+    "position": "Member",
+    "committee": "Security and Foreign Policy",
+    "image": "https://www.parliament.mn/images/members/amarsaikhan.jpg",
+    "sentiment": {
+      "current": 0.4987006737247361,
+      "previous": 0.5987006737247361,
+      "trend": "down"
+    },
+    "mentions": {
+      "total": 15585,
+      "news": 34,
+      "facebook": 15297,
+      "twitter": 254
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Foreign Relations discussion in Parliament",
+        "snippet": "The Parliament member SAINBUYAN AMARSAIKHAN discussed Foreign Relations during the session. The discussion focused on various aspects of the policy an...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827251",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Foreign Relations discussion in Parliament",
+        "snippet": "The Parliament member SAINBUYAN AMARSAIKHAN discussed Foreign Relations during the session. The discussion focused on various aspects of the policy an...",
+        "url": "https://gogo.mn.mn/news/1744253824851",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Foreign Relations discussion in Parliament",
+        "snippet": "The Parliament member SAINBUYAN AMARSAIKHAN discussed Foreign Relations during the session. The discussion focused on various aspects of the policy an...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827324",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Foreign Relations",
+        "snippet": "Discussion about Foreign Relations in Parliament. SAINBUYAN AMARSAIKHAN made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_129/posts/1744253988035",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Foreign Relations",
+        "snippet": "Discussion about Foreign Relations in Parliament. SAINBUYAN AMARSAIKHAN made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_121/posts/1744253978443",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Foreign Relations",
+        "snippet": "#ForeignRelations #AMARSAIKHAN Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_5/status/1744253993635",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Foreign Relations",
+        "snippet": "#ForeignRelations #AMARSAIKHAN Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_6/status/1744253993739",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "TELUKHAN AUBAKIR",
+    "position": "Member",
+    "committee": "Environment and Agriculture",
+    "image": "https://www.parliament.mn/images/members/aubakir.jpg",
+    "sentiment": {
+      "current": 0.503210045975434,
+      "previous": 0.403210045975434,
+      "trend": "up"
+    },
+    "mentions": {
+      "total": 14573,
+      "news": 38,
+      "facebook": 14290,
+      "twitter": 245
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Budget Debate discussion in Parliament",
+        "snippet": "The Parliament member TELUKHAN AUBAKIR discussed Budget Debate during the session. The discussion focused on various aspects of the policy and its imp...",
+        "url": "https://infrastructuremongolia.mn/news/1744253827220",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Budget Debate discussion in Parliament",
+        "snippet": "The Parliament member TELUKHAN AUBAKIR discussed Budget Debate during the session. The discussion focused on various aspects of the policy and its imp...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827292",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Budget Debate discussion in Parliament",
+        "snippet": "The Parliament member TELUKHAN AUBAKIR discussed Budget Debate during the session. The discussion focused on various aspects of the policy and its imp...",
+        "url": "https://gogo.mn.mn/news/1744253824820",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Budget Debate",
+        "snippet": "Discussion about Budget Debate in Parliament. TELUKHAN AUBAKIR made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_106/posts/1744253959204",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Budget Debate",
+        "snippet": "Discussion about Budget Debate in Parliament. TELUKHAN AUBAKIR made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_88/posts/1744253937620",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Budget Debate",
+        "snippet": "#BudgetDebate #AUBAKIR Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_3/status/1744253992964",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Budget Debate",
+        "snippet": "#BudgetDebate #AUBAKIR Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_4/status/1744253993084",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "ENKHTAIVAN BAT-AMGALAN",
+    "position": "Member",
+    "committee": "Innovation and E-Policy",
+    "image": "https://www.parliament.mn/images/members/bat-amgalan.jpg",
+    "sentiment": {
+      "current": 0.5014181329280416,
+      "previous": 0.4014181329280416,
+      "trend": "up"
+    },
+    "mentions": {
+      "total": 17107,
+      "news": 40,
+      "facebook": 16776,
+      "twitter": 291
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Education Reform discussion in Parliament",
+        "snippet": "The Parliament member ENKHTAIVAN BAT-AMGALAN discussed Education Reform during the session. The discussion focused on various aspects of the policy an...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827261",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Education Reform discussion in Parliament",
+        "snippet": "The Parliament member ENKHTAIVAN BAT-AMGALAN discussed Education Reform during the session. The discussion focused on various aspects of the policy an...",
+        "url": "https://gogo.mn.mn/news/1744253824861",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Education Reform discussion in Parliament",
+        "snippet": "The Parliament member ENKHTAIVAN BAT-AMGALAN discussed Education Reform during the session. The discussion focused on various aspects of the policy an...",
+        "url": "https://legalmongolia.mn/news/1744253827365",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Education Reform",
+        "snippet": "Discussion about Education Reform in Parliament. ENKHTAIVAN BAT-AMGALAN made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_73/posts/1744253918413",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Education Reform",
+        "snippet": "Discussion about Education Reform in Parliament. ENKHTAIVAN BAT-AMGALAN made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_69/posts/1744253913637",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Education Reform",
+        "snippet": "#EducationReform #BAT-AMGALAN Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_10/status/1744253995285",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Education Reform",
+        "snippet": "#EducationReform #BAT-AMGALAN Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_4/status/1744253993141",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Jadamba BAT-ERDENE",
+    "position": "Member",
+    "committee": "Ethics and Disciplinary",
+    "image": "https://www.parliament.mn/images/members/bat-erdene.jpg",
+    "sentiment": {
+      "current": 0.5020708609992359,
+      "previous": 0.40207086099923595,
+      "trend": "up"
+    },
+    "mentions": {
+      "total": 18374,
+      "news": 36,
+      "facebook": 18006,
+      "twitter": 332
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Digital Transformation discussion in Parliament",
+        "snippet": "The Parliament member Jadamba BAT-ERDENE discussed Digital Transformation during the session. The discussion focused on various aspects of the policy ...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827230",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Digital Transformation discussion in Parliament",
+        "snippet": "The Parliament member Jadamba BAT-ERDENE discussed Digital Transformation during the session. The discussion focused on various aspects of the policy ...",
+        "url": "https://gogo.mn.mn/news/1744253824830",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Digital Transformation discussion in Parliament",
+        "snippet": "The Parliament member Jadamba BAT-ERDENE discussed Digital Transformation during the session. The discussion focused on various aspects of the policy ...",
+        "url": "https://legalmongolia.mn/news/1744253827334",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Digital Transformation",
+        "snippet": "Discussion about Digital Transformation in Parliament. Jadamba BAT-ERDENE made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_108/posts/1744253961638",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Digital Transformation",
+        "snippet": "Discussion about Digital Transformation in Parliament. Jadamba BAT-ERDENE made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_67/posts/1744253911254",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Digital Transformation",
+        "snippet": "#DigitalTransformation #BAT-ERDENE Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_3/status/1744253992854",
+        "date": "2025-04-09",
+        "sentiment": "neutral"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Digital Transformation",
+        "snippet": "#DigitalTransformation #BAT-ERDENE Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_3/status/1744253993030",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "JIGJID BATJARGAL",
+    "position": "Member",
+    "committee": "Social Policy",
+    "image": "https://www.parliament.mn/images/members/batjargal.jpg",
+    "sentiment": {
+      "current": 0.4975053671103487,
+      "previous": 0.5975053671103487,
+      "trend": "down"
+    },
+    "mentions": {
+      "total": 18632,
+      "news": 35,
+      "facebook": 18370,
+      "twitter": 227
+    },
+    "recentMentions": [
+      {
+        "id": 1,
+        "source": "news",
+        "title": "Cultural Heritage discussion in Parliament",
+        "snippet": "The Parliament member JIGJID BATJARGAL discussed Cultural Heritage during the session. The discussion focused on various aspects of the policy and its...",
+        "url": "https://news.mn.mn/news/1744253824871",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 2,
+        "source": "news",
+        "title": "Cultural Heritage discussion in Parliament",
+        "snippet": "The Parliament member JIGJID BATJARGAL discussed Cultural Heritage during the session. The discussion focused on various aspects of the policy and its...",
+        "url": "https://foreignaffairsmongolia.mn/news/1744253827303",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 3,
+        "source": "news",
+        "title": "Cultural Heritage discussion in Parliament",
+        "snippet": "The Parliament member JIGJID BATJARGAL discussed Cultural Heritage during the session. The discussion focused on various aspects of the policy and its...",
+        "url": "https://legalmongolia.mn/news/1744253827375",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 4,
+        "source": "facebook",
+        "title": "Facebook post about Cultural Heritage",
+        "snippet": "Discussion about Cultural Heritage in Parliament. JIGJID BATJARGAL made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_125/posts/1744253983279",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 5,
+        "source": "facebook",
+        "title": "Facebook post about Cultural Heritage",
+        "snippet": "Discussion about Cultural Heritage in Parliament. JIGJID BATJARGAL made some interesting points today....",
+        "url": "https://facebook.com/Mongolia_Page_102/posts/1744253954479",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      },
+      {
+        "id": 6,
+        "source": "twitter",
+        "title": "Tweet about Cultural Heritage",
+        "snippet": "#CulturalHeritage #BATJARGAL Parliament discussion today was concerning. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_3/status/1744253992927",
+        "date": "2025-04-09",
+        "sentiment": "negative"
+      },
+      {
+        "id": 7,
+        "source": "twitter",
+        "title": "Tweet about Cultural Heritage",
+        "snippet": "#CulturalHeritage #BATJARGAL Parliament discussion today was productive. #Mongolia #Parliament",
+        "url": "https://twitter.com/Mongolia_Account_5/status/1744253993375",
+        "date": "2025-04-09",
+        "sentiment": "positive"
+      }
+    ]
+  }
+]

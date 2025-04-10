@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "date": "2025-04-07 01:10",
+    "type": "positive",
+    "member": "Member 1",
+    "source": "news",
+    "content": "Sample alert content 1",
+    "sentiment": 0.22
+  },
+  {
+    "id": 2,
+    "date": "2025-04-06 00:10",
+    "type": "positive",
+    "member": "Member 1",
+    "source": "news",
+    "content": "Sample alert content 2",
+    "sentiment": 0.46
+  },
+  {
+    "id": 3,
+    "date": "2025-04-08 16:10",
+    "type": "negative",
+    "member": "Member 5",
+    "source": "twitter",
+    "content": "Sample alert content 3",
+    "sentiment": 0.76
+  },
+  {
+    "id": 4,
+    "date": "2025-04-07 22:10",
+    "type": "negative",
+    "member": "Member 7",
+    "source": "facebook",
+    "content": "Sample alert content 4",
+    "sentiment": 0.42
+  },
+  {
+    "id": 5,
+    "date": "2025-04-06 06:10",
+    "type": "negative",
+    "member": "Member 5",
+    "source": "twitter",
+    "content": "Sample alert content 5",
+    "sentiment": 0.35
+  }
+]
