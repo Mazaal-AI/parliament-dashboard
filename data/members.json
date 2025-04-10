@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Member 1",
+    "position": "Parliament Member",
+    "party": "People's Party",
+    "image": "member_1.jpg",
+    "totalMentions": 13985,
+    "sentiment": 0.36
+  },
+  {
+    "id": 2,
+    "name": "Member 2",
+    "position": "Parliament Member",
+    "party": "Independent",
+    "image": "member_2.jpg",
+    "totalMentions": 18202,
+    "sentiment": 0.54
+  },
+  {
+    "id": 3,
+    "name": "Member 3",
+    "position": "Parliament Member",
+    "party": "People's Party",
+    "image": "member_3.jpg",
+    "totalMentions": 19059,
+    "sentiment": 0.47
+  },
+  {
+    "id": 4,
+    "name": "Member 4",
+    "position": "Parliament Member",
+    "party": "Democratic Party",
+    "image": "member_4.jpg",
+    "totalMentions": 13483,
+    "sentiment": 0.54
+  },
+  {
+    "id": 5,
+    "name": "Member 5",
+    "position": "Parliament Member",
+    "party": "People's Party",
+    "image": "member_5.jpg",
+    "totalMentions": 18879,
+    "sentiment": 0.35
+  },
+  {
+    "id": 6,
+    "name": "Member 6",
+    "position": "Parliament Member",
+    "party": "Democratic Party",
+    "image": "member_6.jpg",
+    "totalMentions": 18845,
+    "sentiment": 0.3
+  },
+  {
+    "id": 7,
+    "name": "Member 7",
+    "position": "Parliament Member",
+    "party": "Democratic Party",
+    "image": "member_7.jpg",
+    "totalMentions": 12897,
+    "sentiment": 0.5
+  },
+  {
+    "id": 8,
+    "name": "Member 8",
+    "position": "Parliament Member",
+    "party": "Democratic Party",
+    "image": "member_8.jpg",
+    "totalMentions": 17859,
+    "sentiment": 0.53
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "date": "2025-04-10",
+    "overall": 0.4274102106366569,
+    "news": 0.4059666666666664,
+    "facebook": 0.42791246885527534,
+    "twitter": 0.448351496388029,
+    "topTopics": [
+      {
+        "topic": "Foreign Relations",
+        "count": 33,
+        "sentiment": 0.3777966101694915
+      },
+      {
+        "topic": "Healthcare Reform",
+        "count": 32,
+        "sentiment": 0.389
+      },
+      {
+        "topic": "Digital Transformation",
+        "count": 32,
+        "sentiment": 0.418695652173913
+      },
+      {
+        "topic": "Economic Policy",
+        "count": 32,
+        "sentiment": 0.39513157894736806
+      },
+      {
+        "topic": "Budget Debate",
+        "count": 28,
+        "sentiment": 0.36537313432835805
+      }
+    ]
+  },
+  {
+    "date": "2025-04-09",
+    "overall": 0.4374102106366569,
+    "news": 0.43596666666666645,
+    "facebook": 0.45791246885527537,
+    "twitter": 0.418351496388029,
+    "topTopics": [
+      {
+        "topic": "Foreign Relations",
+        "count": 32,
+        "sentiment": 0.41779661016949154
+      },
+      {
+        "topic": "Healthcare Reform",
+        "count": 31,
+        "sentiment": 0.429
+      },
+      {
+        "topic": "Digital Transformation",
+        "count": 31,
+        "sentiment": 0.458695652173913
+      },
+      {
+        "topic": "Economic Policy",
+        "count": 31,
+        "sentiment": 0.4351315789473681
+      },
+      {
+        "topic": "Budget Debate",
+        "count": 27,
+        "sentiment": 0.4053731343283581
+      }
+    ]
+  },
+  {
+    "date": "2025-04-08",
+    "overall": 0.4474102106366569,
+    "news": 0.4659666666666665,
+    "facebook": 0.42791246885527534,
+    "twitter": 0.448351496388029,
+    "topTopics": [
+      {
+        "topic": "Foreign Relations",
+        "count": 31,
+        "sentiment": 0.4577966101694916
+      },
+      {
+        "topic": "Healthcare Reform",
+        "count": 30,
+        "sentiment": 0.469
+      },
+      {
+        "topic": "Digital Transformation",
+        "count": 30,
+        "sentiment": 0.498695652173913
+      },
+      {
+        "topic": "Economic Policy",
+        "count": 30,
+        "sentiment": 0.4751315789473681
+      },
+      {
+        "topic": "Budget Debate",
+        "count": 26,
+        "sentiment": 0.4453731343283581
+      }
+    ]
+  },
+  {
+    "date": "2025-04-07",
+    "overall": 0.45741021063665693,
+    "news": 0.43596666666666645,
+    "facebook": 0.45791246885527537,
+    "twitter": 0.47835149638802904,
+    "topTopics": [
+      {
+        "topic": "Foreign Relations",
+        "count": 27,
+        "sentiment": 0.40779661016949154
+      },
+      {
+        "topic": "Healthcare Reform",
+        "count": 26,
+        "sentiment": 0.41900000000000004
+      },
+      {
+        "topic": "Digital Transformation",
+        "count": 26,
+        "sentiment": 0.44869565217391305
+      },
+      {
+        "topic": "Economic Policy",
+        "count": 26,
+        "sentiment": 0.4251315789473681
+      },
+      {
+        "topic": "Budget Debate",
+        "count": 22,
+        "sentiment": 0.3953731343283581
+      }
+    ]
+  },
+  {
+    "date": "2025-04-06",
+    "overall": 0.46741021063665694,
+    "news": 0.4659666666666664,
+    "facebook": 0.4879124688552754,
+    "twitter": 0.44835149638802896,
+    "topTopics": [
+      {
+        "topic": "Foreign Relations",
+        "count": 26,
+        "sentiment": 0.44779661016949157
+      },
+      {
+        "topic": "Healthcare Reform",
+        "count": 25,
+        "sentiment": 0.45899999999999996
+      },
+      {
+        "topic": "Digital Transformation",
+        "count": 25,
+        "sentiment": 0.488695652173913
+      },
+      {
+        "topic": "Economic Policy",
+        "count": 25,
+        "sentiment": 0.4651315789473681
+      },
+      {
+        "topic": "Budget Debate",
+        "count": 21,
+        "sentiment": 0.4353731343283581
+      }
+    ]
+  },
+  {
+    "date": "2025-04-05",
+    "overall": 0.4774102106366569,
+    "news": 0.49596666666666644,
+    "facebook": 0.4579124688552753,
+    "twitter": 0.478351496388029,
+    "topTopics": [
+      {
+        "topic": "Foreign Relations",
+        "count": 25,
+        "sentiment": 0.4877966101694915
+      },
+      {
+        "topic": "Healthcare Reform",
+        "count": 24,
+        "sentiment": 0.499
+      },
+      {
+        "topic": "Digital Transformation",
+        "count": 24,
+        "sentiment": 0.528695652173913
+      },
+      {
+        "topic": "Economic Policy",
+        "count": 24,
+        "sentiment": 0.505131578947368
+      },
+      {
+        "topic": "Budget Debate",
+        "count": 20,
+        "sentiment": 0.47537313432835804
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "overall": 0.48741021063665696,
+    "news": 0.4659666666666664,
+    "facebook": 0.48791246885527534,
+    "twitter": 0.508351496388029,
+    "topTopics": [
+      {
+        "topic": "Foreign Relations",
+        "count": 21,
+        "sentiment": 0.43779661016949156
+      },
+      {
+        "topic": "Healthcare Reform",
+        "count": 20,
+        "sentiment": 0.44899999999999995
+      },
+      {
+        "topic": "Digital Transformation",
+        "count": 20,
+        "sentiment": 0.47869565217391297
+      },
+      {
+        "topic": "Economic Policy",
+        "count": 20,
+        "sentiment": 0.4551315789473681
+      },
+      {
+        "topic": "Budget Debate",
+        "count": 16,
+        "sentiment": 0.4253731343283581
+      }
+    ]
+  }
+]
