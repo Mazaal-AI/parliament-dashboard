@@ -42,7 +42,7 @@ module.exports = {
       patterns: [
         { from: 'public/data', to: 'data' }
       ],
-    }) 
+    }),
   ],
   devServer: {
     historyApiFallback: true,

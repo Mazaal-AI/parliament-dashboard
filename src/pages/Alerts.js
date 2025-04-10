@@ -64,7 +64,7 @@ const Alerts = ({ language }) => {
       try {
         // Simulate API call with setTimeout
         setTimeout(() => {
-          fetch('/data/alerts.json')
+          fetch('./data/alerts.json')
             .then(response => response.json())
             .then(data => {
               setAlerts(data);

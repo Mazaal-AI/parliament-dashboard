@@ -72,7 +72,7 @@ const Dashboard = ({ language }) => {
         
         // Fetch sentiment trends
         try {
-          const sentimentResponse = await fetch('/data/sentiment_trends.json');
+          const sentimentResponse = await fetch('./data/sentiment_trends.json');
           if (sentimentResponse.ok) {
             const sentimentData = await sentimentResponse.json();
             setSentimentData(sentimentData);
@@ -87,7 +87,7 @@ const Dashboard = ({ language }) => {
         
         // Fetch member mentions
         try {
-          const memberResponse = await fetch('/data/member_mentions.json');
+          const memberResponse = await fetch('./data/member_mentions.json');
           if (memberResponse.ok) {
             const memberData = await memberResponse.json();
             setMemberData(memberData);
@@ -102,7 +102,7 @@ const Dashboard = ({ language }) => {
         
         // Fetch topic mentions
         try {
-          const topicResponse = await fetch('/data/topic_mentions.json');
+          const topicResponse = await fetch('./data/topic_mentions.json');
           if (topicResponse.ok) {
             const topicData = await topicResponse.json();
             setTopicData(topicData);
@@ -117,7 +117,7 @@ const Dashboard = ({ language }) => {
         
         // Fetch alerts
         try {
-          const alertResponse = await fetch('/data/alerts.json');
+          const alertResponse = await fetch('./data/alerts.json');
           if (alertResponse.ok) {
             const alertData = await alertResponse.json();
             setAlertData(alertData);

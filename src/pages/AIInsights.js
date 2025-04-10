@@ -77,7 +77,7 @@ const AIInsights = ({ language }) => {
         setIsLoading(true);
         
         // Load member profiles to get the list of members
-        const membersResponse = await fetch('/data/members.json');
+        const membersResponse = await fetch('./data/members.json');
         if (membersResponse.ok) {
           const membersData = await membersResponse.json();
           setMembers(membersData);
@@ -90,7 +90,7 @@ const AIInsights = ({ language }) => {
         
         // Load member insights
         try {
-          const insightsResponse = await fetch('/data/member_insights.json');
+          const insightsResponse = await fetch('./data/member_insights.json');
           if (insightsResponse.ok) {
             const insightsData = await insightsResponse.json();
             setMemberInsights(insightsData);
@@ -101,7 +101,7 @@ const AIInsights = ({ language }) => {
         
         // Load topic analysis
         try {
-          const topicsResponse = await fetch('/data/ai_topics.json');
+          const topicsResponse = await fetch('./data/ai_topics.json');
           if (topicsResponse.ok) {
             const topicsData = await topicsResponse.json();
             setTopics(topicsData);
@@ -112,7 +112,7 @@ const AIInsights = ({ language }) => {
         
         // Load network data
         try {
-          const networkResponse = await fetch('/data/entity_network.json');
+          const networkResponse = await fetch('./data/entity_network.json');
           if (networkResponse.ok) {
             const networkData = await networkResponse.json();
             setNetworkData(networkData);
@@ -123,7 +123,7 @@ const AIInsights = ({ language }) => {
         
         // Load sentiment predictions
         try {
-          const predictionsResponse = await fetch('/data/sentiment_predictions.json');
+          const predictionsResponse = await fetch('./data/sentiment_predictions.json');
           if (predictionsResponse.ok) {
             const predictionsData = await predictionsResponse.json();
             setPredictions(predictionsData);
@@ -134,7 +134,7 @@ const AIInsights = ({ language }) => {
         
         // Load chatbot data
         try {
-          const chatbotResponse = await fetch('/data/chatbot_data.json');
+          const chatbotResponse = await fetch('./data/chatbot_data.json');
           if (chatbotResponse.ok) {
             const chatbotData = await chatbotResponse.json();
             setChatbotData(chatbotData);

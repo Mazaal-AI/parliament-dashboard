@@ -55,7 +55,7 @@ const Members = ({ language }) => {
       try {
         // Simulate API call with setTimeout
         setTimeout(() => {
-          fetch('/data/members.json')
+          fetch('./data/members.json')
             .then(response => response.json())
             .then(data => {
               setMembers(data);
