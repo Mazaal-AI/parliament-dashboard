@@ -1,0 +1,98 @@
+{
+  "Economic Policy": {
+    "total": 201,
+    "news": 39,
+    "facebook": 156,
+    "twitter": 6,
+    "sentiment": {
+      "overall": 0.4889054726368159,
+      "news": 0.4841025641025642,
+      "facebook": 0.4943589743589744,
+      "twitter": 0.37833333333333335
+    }
+  },
+  "Healthcare Reform": {
+    "total": 209,
+    "news": 38,
+    "facebook": 158,
+    "twitter": 13,
+    "sentiment": {
+      "overall": 0.4986602870813397,
+      "news": 0.54,
+      "facebook": 0.4939873417721518,
+      "twitter": 0.4346153846153846
+    }
+  },
+  "Environmental Protection": {
+    "total": 215,
+    "news": 39,
+    "facebook": 162,
+    "twitter": 14,
+    "sentiment": {
+      "overall": 0.4909767441860465,
+      "news": 0.4923076923076923,
+      "facebook": 0.4977160493827159,
+      "twitter": 0.40928571428571425
+    }
+  },
+  "Foreign Relations": {
+    "total": 200,
+    "news": 34,
+    "facebook": 153,
+    "twitter": 13,
+    "sentiment": {
+      "overall": 0.4754,
+      "news": 0.506764705882353,
+      "facebook": 0.47098039215686266,
+      "twitter": 0.4453846153846154
+    }
+  },
+  "Budget Debate": {
+    "total": 195,
+    "news": 39,
+    "facebook": 144,
+    "twitter": 12,
+    "sentiment": {
+      "overall": 0.502871794871795,
+      "news": 0.4935897435897436,
+      "facebook": 0.4910416666666668,
+      "twitter": 0.6749999999999999
+    }
+  },
+  "Education Reform": {
+    "total": 219,
+    "news": 40,
+    "facebook": 164,
+    "twitter": 15,
+    "sentiment": {
+      "overall": 0.49415525114155284,
+      "news": 0.4739999999999999,
+      "facebook": 0.4879878048780492,
+      "twitter": 0.6153333333333334
+    }
+  },
+  "Digital Transformation": {
+    "total": 232,
+    "news": 35,
+    "facebook": 181,
+    "twitter": 16,
+    "sentiment": {
+      "overall": 0.4911206896551722,
+      "news": 0.494,
+      "facebook": 0.4977900552486186,
+      "twitter": 0.409375
+    }
+  },
+  "Cultural Heritage": {
+    "total": 229,
+    "news": 36,
+    "facebook": 182,
+    "twitter": 11,
+    "sentiment": {
+      "overall": 0.5027074235807861,
+      "news": 0.5108333333333335,
+      "facebook": 0.508901098901099,
+      "twitter": 0.37363636363636377
+    }
+  }
+}

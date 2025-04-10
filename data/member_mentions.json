@@ -1,0 +1,98 @@
+{
+  "Dashzegve AMARBAYASGALAN": {
+    "total": 16050,
+    "news": 39,
+    "facebook": 15905,
+    "twitter": 106,
+    "sentiment": {
+      "overall": 0.5030087227414327,
+      "news": 0.4841025641025642,
+      "facebook": 0.5037315309651049,
+      "twitter": 0.40150943396226424
+    }
+  },
+  "Khurelbaatar BULGANTUYA": {
+    "total": 15898,
+    "news": 38,
+    "facebook": 15601,
+    "twitter": 259,
+    "sentiment": {
+      "overall": 0.4992269467857592,
+      "news": 0.54,
+      "facebook": 0.5001333247868726,
+      "twitter": 0.4386486486486486
+    }
+  },
+  "NOROV ALTANKHUYAG": {
+    "total": 16519,
+    "news": 40,
+    "facebook": 16191,
+    "twitter": 288,
+    "sentiment": {
+      "overall": 0.49945154065015923,
+      "news": 0.49375,
+      "facebook": 0.5011957260206276,
+      "twitter": 0.4021875
+    }
+  },
+  "SAINBUYAN AMARSAIKHAN": {
+    "total": 15585,
+    "news": 34,
+    "facebook": 15297,
+    "twitter": 254,
+    "sentiment": {
+      "overall": 0.4987006737247361,
+      "news": 0.5094117647058823,
+      "facebook": 0.49806432633849856,
+      "twitter": 0.5355905511811022
+    }
+  },
+  "TELUKHAN AUBAKIR": {
+    "total": 14573,
+    "news": 38,
+    "facebook": 14290,
+    "twitter": 245,
+    "sentiment": {
+      "overall": 0.503210045975434,
+      "news": 0.48973684210526314,
+      "facebook": 0.4988936319104269,
+      "twitter": 0.7570612244897954
+    }
+  },
+  "ENKHTAIVAN BAT-AMGALAN": {
+    "total": 17107,
+    "news": 40,
+    "facebook": 16776,
+    "twitter": 291,
+    "sentiment": {
+      "overall": 0.5014181329280416,
+      "news": 0.4739999999999999,
+      "facebook": 0.49999761564139295,
+      "twitter": 0.5870790378006873
+    }
+  },
+  "Jadamba BAT-ERDENE": {
+    "total": 18374,
+    "news": 36,
+    "facebook": 18006,
+    "twitter": 332,
+    "sentiment": {
+      "overall": 0.5020708609992359,
+      "news": 0.48777777777777775,
+      "facebook": 0.5027035432633545,
+      "twitter": 0.46930722891566273
+    }
+  },
+  "JIGJID BATJARGAL": {
+    "total": 18632,
+    "news": 35,
+    "facebook": 18370,
+    "twitter": 227,
+    "sentiment": {
+      "overall": 0.4975053671103487,
+      "news": 0.5177142857142858,
+      "facebook": 0.4988982035928153,
+      "twitter": 0.38167400881057256
+    }
+  }
+}
